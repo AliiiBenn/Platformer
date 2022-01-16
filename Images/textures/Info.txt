@@ -1,0 +1,6 @@
+1er --> Textures du sol
+2eme --> objets à recuperer
+3eme --> danger
+4eme --> joueur et ennemis
+5eme --> decoration
+6eme --> sortie
